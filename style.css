@@ -1,0 +1,91 @@
+.my_background{
+    background-image: url("photo.png");
+    height: 1060px;
+    background-repeat: no-repeat;
+    background-position:center;
+    font-family: 'Domine', serif;
+    font-size:20px;
+
+}
+.my_show{
+  text-align:right;
+}
+.my_padding{
+  padding-top:0px;
+  
+}
+.logo_padding{
+  padding-top:0px;
+  padding-left:100px;
+}
+.nav.navbar-nav li a {
+   color: black;
+ }
+.push_up{
+  padding-bottom: 10px;
+}
+
+.header_text{
+  padding-top:275px;
+  padding-left:75px;
+  font-size:40px;
+  font-family: 'Montserrat', sans-serif;
+}
+.header_text span{
+color:red;
+}
+.header_text_2{
+  padding-left:75px;
+  font-family: 'Open Sans', sans-serif;
+}
+.header_button{
+  padding-left:100px;
+}
+
+.service-box-title{
+  padding-top:100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size:30px;
+}
+.service-box-title span{
+color:red;
+}
+.service-box-desrciption{
+  font-family: 'Open Sans', sans-serif;
+  color: #9aa0ab;
+}
+.service-box-img{
+  padding-top:100px;
+}
+.service-box-img-team{
+  padding-top:25px;
+}
+.service-box-title-team{
+  padding-left:50px;
+  padding-top:25px;
+  font-family: 'Montserrat', sans-serif;
+  font-size:30px;
+}
+.service-box-desrciption-team{
+  padding-left:50px;
+  font-family: 'Open Sans', sans-serif;
+  color:red;
+}
+.service-box-desrciption-team-2{
+  padding-left:50px;
+  font-family: 'Open Sans', sans-serif;
+  color:#9aa0ab;
+}
+.info{
+  padding-bottom:50px;
+}
+.footer-text{
+  font-family: 'Open Sans', sans-serif;
+  color:#9aa0ab;
+  font-size:15px;
+  text-align:right;
+}
+.footer-photo{
+  padding-left:5px;
+  padding-right:25px;
+}
